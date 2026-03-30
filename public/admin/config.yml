@@ -4,8 +4,11 @@ backend:
   branch: main
   auth_type: token
 
+site_url: https://24x365days.com
+display_url: https://24x365days.com
+
 # Enable local development
-local_backend: true
+local_backend: false
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
